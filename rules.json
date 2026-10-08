@@ -1,0 +1,100 @@
+{
+  "rules": [
+    {
+      "id": 1,
+      "name": "Parties Identification",
+      "description": "Contract must clearly identify all parties involved in the agreement",
+      "category": "Parties"
+    },
+    {
+      "id": 2,
+      "name": "Agreement Date",
+      "description": "Contract must specify the date when the agreement was signed",
+      "category": "Agreement Date"
+    },
+    {
+      "id": 3,
+      "name": "Effective Date",
+      "description": "Contract must define when the agreement becomes effective",
+      "category": "Effective Date"
+    },
+    {
+      "id": 4,
+      "name": "Expiration Date",
+      "description": "Contract must specify when the agreement will expire or if it is perpetual",
+      "category": "Expiration Date"
+    },
+    {
+      "id": 5,
+      "name": "Renewal Terms",
+      "description": "Contract must clearly define renewal terms if applicable",
+      "category": "Renewal Term"
+    },
+    {
+      "id": 6,
+      "name": "Termination Notice",
+      "description": "Contract must specify notice period required to terminate renewal",
+      "category": "Notice to Terminate Renewal"
+    },
+    {
+      "id": 7,
+      "name": "Governing Law",
+      "description": "Contract must specify which law governs the agreement",
+      "category": "Governing Law"
+    },
+    {
+      "id": 8,
+      "name": "Jurisdiction",
+      "description": "Contract must define jurisdiction for dispute resolution",
+      "category": "Jurisdiction"
+    },
+    {
+      "id": 9,
+      "name": "Payment Terms",
+      "description": "Contract must specify payment terms and conditions",
+      "category": "Payment Terms"
+    },
+    {
+      "id": 10,
+      "name": "Confidentiality",
+      "description": "Contract should include confidentiality and non-disclosure clauses",
+      "category": "Confidentiality"
+    },
+    {
+      "id": 11,
+      "name": "Liability Limitation",
+      "description": "Contract should define limitations on liability and damages",
+      "category": "Limitation of Liability"
+    },
+    {
+      "id": 12,
+      "name": "Intellectual Property",
+      "description": "Contract must address intellectual property rights and ownership",
+      "category": "Intellectual Property"
+    },
+    {
+      "id": 13,
+      "name": "Indemnification",
+      "description": "Contract should include indemnification clauses to protect parties",
+      "category": "Indemnification"
+    },
+    {
+      "id": 14,
+      "name": "Entire Agreement",
+      "description": "Contract should contain an entire agreement clause",
+      "category": "Entire Agreement"
+    },
+    {
+      "id": 15,
+      "name": "Amendment Procedures",
+      "description": "Contract should specify how amendments can be made",
+      "category": "Amendment"
+    },
+    {
+      "id": 16,
+      "name": "Dispute Resolution",
+      "description": "Contract should define dispute resolution mechanisms",
+      "category": "Dispute Resolution"
+    }
+  ]
+}

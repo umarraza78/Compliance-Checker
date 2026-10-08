@@ -1,0 +1,178 @@
+[
+  {
+    "rule_id": 1,
+    "rule_name": "Parties Identification",
+    "status": "NON-COMPLIANT",
+    "response": "Status: NO\nEvidence: The provided contract sections do not explicitly and clearly identify all parties involved in the agreement. While some sections mention \"Parties\" or specific entities like \"ASPIRITYHOLDINGSLLC\", \"ABILITYINC\", and \"AT&T\", they don't provide a definitive list or description of *all* parties bound by the agreement. The sections focus on other aspects like regulatory compliance, entire agreement clauses, and ethical conduct.\nRemediation: The contract should include a section, typically at the beginning, that clearly lists the full legal names and addresses of all parties entering into the agreement. For example, \"This agreement is made as of [Date] by and between [Party A's Full Legal Name and Address] and [Party B's Full Legal Name and Address]\". If there are more than two parties, each party should be clearly identified.",
+    "sources": [
+      "ASPIRITYHOLDINGSLLC_05_07_2012-EX-10.6-OUTSOURCING AGREEMENT",
+      "ABILITYINC_06_15_2020-EX-4.25-SERVICES AGREEMENT",
+      "AtnInternationalInc_20191108_10-Q_EX-10.1_11878541_EX-10.1_Maintenance Agreement"
+    ]
+  },
+  {
+    "rule_id": 2,
+    "rule_name": "Agreement Date",
+    "status": "COMPLIANT",
+    "response": "Status: YES\nEvidence: \"Source: AZUL SA, F-1/A, 3/3/2017\"\nRemediation: N/A",
+    "sources": [
+      "BELLICUMPHARMACEUTICALS,INC_05_07_2019-EX-10.1-Supply Agreement",
+      "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1",
+      "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1"
+    ]
+  },
+  {
+    "rule_id": 3,
+    "rule_name": "Effective Date",
+    "status": "NON-COMPLIANT",
+    "response": "Status: NO\nEvidence: The provided excerpts do not contain any information about the effective date of the agreement. They discuss payment terms, vendor representations, and authorization of the agreement, but not when the agreement comes into effect.\nRemediation: The contract should explicitly state the date on which the agreement becomes effective. For example, a clause could be added stating: \"This Agreement shall become effective as of [Date].\"",
+    "sources": [
+      "BELLICUMPHARMACEUTICALS,INC_05_07_2019-EX-10.1-Supply Agreement",
+      "AtnInternationalInc_20191108_10-Q_EX-10.1_11878541_EX-10.1_Maintenance Agreement",
+      "ALAMOGORDOFINANCIALCORP_12_16_1999-EX-1-AGENCY AGREEMENT"
+    ]
+  },
+  {
+    "rule_id": 4,
+    "rule_name": "Expiration Date",
+    "status": "COMPLIANT",
+    "response": "Status: YES\nEvidence: \"13.1 This Agreement shall remain in effect for sixty (60) months from the Effective Date (the \"Initial Term\"). After the Initial Term, the term of the Agreement may be extended by a further period of five (5) years by mutual written agreement by the parties in the form of an amendment to this Agreement.\"\nRemediation: N/A\nStatus: YES\nEvidence: \"3.1 The Agreement enters into force on the Signing Date; it will have a duration of [*****] as from the Start Date (the \"Initial Term\"). 3.2 Upon expiry of the Initial Term, this Agreement [*****] unless a Notice of non-renewal is given by either Party to the other Party [*****] prior to the expiry of the Initial Term or the end of a renewal period, if any\"\nRemediation: N/A",
+    "sources": [
+      "AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement",
+      "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+      "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1"
+    ]
+  },
+  {
+    "rule_id": 5,
+    "rule_name": "Renewal Terms",
+    "status": "COMPLIANT",
+    "response": "Status: YES\nEvidence: \"3.2 Upon expiry of the Initial Term, this Agreement [*****] unless a Notice of non-renewal is given by either Party to the other Party [*****] prior to the expiry of the Initial Term or the end of a renewal period, if any\"\nRemediation: N/A",
+    "sources": [
+      "AIRTECHINTERNATIONALGROUPINC_05_08_2000-EX-10.4-FRANCHISE AGREEMENT",
+      "AURASYSTEMSINC_06_16_2010-EX-10.25-STRATEGIC ALLIANCE AGREEMENT",
+      "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1"
+    ]
+  },
+  {
+    "rule_id": 6,
+    "rule_name": "Termination Notice",
+    "status": "COMPLIANT",
+    "response": "Here's an analysis of each contract section provided:\n\n**Contract 1: [2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement]**\n\nStatus: YES\nEvidence: \"A party wishing to renew this Agreement shall give the other party notice thereof no less than thirty (30) days before the expiration of the term then in\"\nRemediation: N/A\n\n**Contract 2: [AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement]**\n\nStatus: YES\nEvidence: \"If Distributor wishes to extend the term of the Agreement beyond the Initial Term, it must notify Airspan in writing at least six (6) months prior to then end of the\"\nRemediation: N/A\n\n**Contract 3: [AMERICASSHOPPINGMALLINC_12_10_1999-EX-10.2-SITE DEVELOPMENT AND HOSTING AGREEMENT]**\n\nStatus: YES\nEvidence: \"This Agreement shall be automatically renewed for an additional one year period on each anniversary of the Effective Date, unless terminated by either Party hereto upon ninety (90)\"\nRemediation: N/A",
+    "sources": [
+      "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement",
+      "AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement",
+      "AMERICASSHOPPINGMALLINC_12_10_1999-EX-10.2-SITE DEVELOPMENT AND HOSTING AGREEMENT"
+    ]
+  },
+  {
+    "rule_id": 7,
+    "rule_name": "Governing Law",
+    "status": "NON-COMPLIANT",
+    "response": "Status: NO\nEvidence: The provided excerpts do not contain a clause specifying the governing law of the agreement.\nRemediation: Add a clause specifying the governing law. For example: \"This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of laws principles.\"",
+    "sources": [
+      "ASPIRITYHOLDINGSLLC_05_07_2012-EX-10.6-OUTSOURCING AGREEMENT",
+      "AtnInternationalInc_20191108_10-Q_EX-10.1_11878541_EX-10.1_Maintenance Agreement",
+      "AtnInternationalInc_20191108_10-Q_EX-10.1_11878541_EX-10.1_Maintenance Agreement"
+    ]
+  },
+  {
+    "rule_id": 8,
+    "rule_name": "Jurisdiction",
+    "status": "COMPLIANT",
+    "response": "Status: YES\nEvidence: \"shall be governed by, and construed in accordance with, the laws of the State of New York, U.S.A. as applied to contracts to be performed wholly within the State of New York\"\nRemediation: N/A",
+    "sources": [
+      "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+      "Antares Pharma, Inc. - Manufacturing Agreement",
+      "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1"
+    ]
+  },
+  {
+    "rule_id": 9,
+    "rule_name": "Payment Terms",
+    "status": "NON-COMPLIANT",
+    "response": "Status: NO\nEvidence: The provided contract sections do not contain any information about payment terms and conditions.\nRemediation: The contract should include a section that clearly outlines the payment terms, including the amount, currency, payment schedule, acceptable payment methods, late payment penalties (if any), and any other relevant conditions related to payment.",
+    "sources": [
+      "AtnInternationalInc_20191108_10-Q_EX-10.1_11878541_EX-10.1_Maintenance Agreement",
+      "ALAMOGORDOFINANCIALCORP_12_16_1999-EX-1-AGENCY AGREEMENT",
+      "ASPIRITYHOLDINGSLLC_05_07_2012-EX-10.6-OUTSOURCING AGREEMENT"
+    ]
+  },
+  {
+    "rule_id": 10,
+    "rule_name": "Confidentiality",
+    "status": "COMPLIANT",
+    "response": "Here's the compliance check for the provided contract sections:\n\n**Contract Section 1: AudibleInc_20001113_10-Q_EX-10.32_2599586_EX-10.32_Co-Branding Agreement_ Marketing Agreement_ Investment Distribution Agreement**\n\nStatus: NO\nEvidence: \"11.4 Nondisclosure. Each Party will protect the Confidential Informatio\" (This is incomplete)\nRemediation: The sentence regarding nondisclosure is incomplete. The contract needs to fully define the scope of confidential information, the obligations of each party to protect it, and the duration of the confidentiality obligation. A standard confidentiality clause should be inserted, defining what constitutes confidential information, exceptions to confidentiality, permitted uses, and the duration of the obligation.\n\n**Contract Section 2: ADIANUTRITION,INC_04_01_2005-EX-10.D2-RESELLER AGREEMENT**\n\nStatus: YES\nEvidence: \"6.1 CONFIDENTIALITY. By virtue of this Agreement, each party may have access to information that is confidential to the other (\"Confidential Information\"). Confidential Information shall include, but not be limited to, software, documentation, formulas, methods, know how, processes, designs, new products, developmental work, marketing requirements, marketing plans, customer names, prospective customer names, the terms and pricing under the Agreement, and any information cl\"\nRemediation: N/A\n\n**Contract Section 3: ABILITYINC_06_15_2020-EX-4.25-SERVICES AGREEMENT**\n\nStatus: YES\nEvidence: \"4. Confidentiality. 4.1 Confidentiality. During the term of this Agreement and thereafter, the Parties hereto shall, and shall instruct their respective representatives to, maintain in confidence and not disclose the other Party's financial, technical, sales, marketing, development, personnel, and other information, records, or data, including, without limitation, customer lists, supplier lists, trade secrets, designs, product formulations, product specifications or any other proprietary or conf\"\nRemediation: N/A",
+    "sources": [
+      "AudibleInc_20001113_10-Q_EX-10.32_2599586_EX-10.32_Co-Branding Agreement_ Marketing Agreement_ Investment Distribution Agreement",
+      "ADIANUTRITION,INC_04_01_2005-EX-10.D2-RESELLER AGREEMENT",
+      "ABILITYINC_06_15_2020-EX-4.25-SERVICES AGREEMENT"
+    ]
+  },
+  {
+    "rule_id": 11,
+    "rule_name": "Liability Limitation",
+    "status": "COMPLIANT",
+    "response": "**Contract 1:**\n\nStatus: YES\nEvidence: \"11.4 Limitation of Liability. NEITHER PARTY SHALL BE LIABLE TO THE OTHER PARTY FOR ANY LOST PROFITS, OR ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL, OR INDIRECT DAMAGES ARISING FROM OR RELATING TO ANY BREACH OF THIS AGREEMENT, REGARDLESS OF ANY NOTICE OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING THE FOREGOING, NOTHING IN THIS SECTION 11.4 IS INTENDED TO OR SHALL LIMIT OR RESTRICT THE INDEMNIFICATION RIGHTS OR OBLIGATIONS OF ANY PARTY UNDER SECTION 11.1 or 11.2, OR DAMAGES AVAILABLE FOR A PARTY\"\nRemediation: N/A\n\n**Contract 2:**\n\nStatus: YES\nEvidence: \"3.21 Limitation of Damages. Notwithstanding anything contained in this Agreement to the contrary, neither Party shall be liable to the other Party for any special, consequential, incidental or punitive damages, however caused, based on any theory of liability except to the extent such damages are payable by such Party (a) pursuant to its indemnification obligations under Section 3.15 and infringement indemnification obligations under Section 3.17, (b) arising out of or resulting from such Party'\"\nRemediation: N/A\n\n**Contract 3:**\n\nStatus: YES\nEvidence: \"16.5 Disclaimer of Liability for Consequential Damages. UNLESS EXPRESSLY PROVIDED HEREUNDER, IN NO EVENT SHALL EITHER PARTY OR ANY OF ITS RESPECTIVE AFFILIATES AND THEIR RESPECTIVE OFFICERS, DIRECTORS AND EMPLOYEES BE LIABLE UNDER THIS AGREEMENT FOR SPECIAL, INDIRECT, PUNITIVE, INCIDENTAL OR CONSEQUENTIAL DAMAGES SUFFERED BY THE OTHER PARTY UNDER THIS AGREEMENT, OF ANY KIND WHATEVER AND HOWEVER CAUSED, AND WHETHER BASED ON AN ACTION OR CLAIM IN CONTRACT, TORT (INCLUDING NEGLIGENCE), BREACH OF ST\"\nRemediation: N/A",
+    "sources": [
+      "AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement",
+      "AtnInternationalInc_20191108_10-Q_EX-10.1_11878541_EX-10.1_Maintenance Agreement",
+      "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT"
+    ]
+  },
+  {
+    "rule_id": 12,
+    "rule_name": "Intellectual Property",
+    "status": "COMPLIANT",
+    "response": "Status: YES\nEvidence: \"6.1.2 As between the Parties, Company reserves all right, title and interest in and to the Company Intellectual Property, along with all Intellectual Property Rights associated therewith and no title to or ownership of any of the foregoing is transferred or, except as expressly set forth in Section 6.3 [Company License], licensed to ACSI or any other person or entity pursuant to this Agreement.\"\nRemediation: N/A",
+    "sources": [
+      "AudibleInc_20001113_10-Q_EX-10.32_2599586_EX-10.32_Co-Branding Agreement_ Marketing Agreement_ Investment Distribution Agreement",
+      "AtnInternationalInc_20191108_10-Q_EX-10.1_11878541_EX-10.1_Maintenance Agreement",
+      "AudibleInc_20001113_10-Q_EX-10.32_2599586_EX-10.32_Co-Branding Agreement_ Marketing Agreement_ Investment Distribution Agreement"
+    ]
+  },
+  {
+    "rule_id": 13,
+    "rule_name": "Indemnification",
+    "status": "COMPLIANT",
+    "response": "Status: YES\nEvidence: \"Provider shall indemnify, defend, and hold harmless Recipient and its officers, directors, employees, agents, affilia\"\nRemediation: N/A",
+    "sources": [
+      "ABILITYINC_06_15_2020-EX-4.25-SERVICES AGREEMENT",
+      "AURASYSTEMSINC_06_16_2010-EX-10.25-STRATEGIC ALLIANCE AGREEMENT",
+      "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT"
+    ]
+  },
+  {
+    "rule_id": 14,
+    "rule_name": "Entire Agreement",
+    "status": "COMPLIANT",
+    "response": "Status: YES\nEvidence: Agreement. This Agreement, the Purchase Agreement and the documents referred to herein and therein constitute the entire agreement among the Parties and supersedes any prior understandings, agreements, or representations by or among the Parties, written or oral, to the extent they relate in any way to the subject matter hereof.\nRemediation: N/A",
+    "sources": [
+      "ABILITYINC_06_15_2020-EX-4.25-SERVICES AGREEMENT",
+      "ARMSTRONGFLOORING,INC_01_07_2019-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT",
+      "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1"
+    ]
+  },
+  {
+    "rule_id": 15,
+    "rule_name": "Amendment Procedures",
+    "status": "COMPLIANT",
+    "response": "Status: YES\nEvidence: \"3.2 Amendments and Waivers. The Parties may not amend this Agreement except by a written agreement of the Parties that identifies itself as an amendment to this Agreement or by a Change Order modifying the terms or conditions of this Agreement, which in either case is signed by both Parties, or as otherwise expressly provided below in this Section.\"\nRemediation: N/A",
+    "sources": [
+      "AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement",
+      "AtnInternationalInc_20191108_10-Q_EX-10.1_11878541_EX-10.1_Maintenance Agreement",
+      "ASPIRITYHOLDINGSLLC_05_07_2012-EX-10.6-OUTSOURCING AGREEMENT"
+    ]
+  },
+  {
+    "rule_id": 16,
+    "rule_name": "Dispute Resolution",
+    "status": "COMPLIANT",
+    "response": "Status: YES\nEvidence: \"ARTICLE XVII DISPUTE RESOLUTION\n\n17.1 Referral to Senior Executives. The Parties recognize that disputes as to certain matters relating to this Agreement may from time to time arise during the term of this Agreement. Any such dispute which cannot be resolved by good faith negotiations shall be referred, by written notice from either Party to the other, to the Senior Executives (or their respective designees) for resolution. The Senior Executives (or their respective designees) shall negotiate i\"\nRemediation: N/A",
+    "sources": [
+      "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+      "AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement",
+      "BELLICUMPHARMACEUTICALS,INC_05_07_2019-EX-10.1-Supply Agreement"
+    ]
+  }
+]
